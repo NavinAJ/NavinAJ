@@ -44,6 +44,16 @@
   &emsp;
     <a href="#"><img alt="Unity 3D" src="https://www.logolynx.com/images/logolynx/90/908c28710b023fe94825ed4c503670d9.jpeg" width="100" height="50" /></a>
   &emsp;
+  <a href="#"><img alt="Machine Learning" src="https://toppng.com/uploads/preview/whitepages-pro-machine-learning-machine-learning-model-ico-11563053120undutdpodt.png" width="50" height="50" /></a>
+  &emsp;
+  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/-NLP-orange" width="50" height="40" /></a>
+  &emsp;
+  <a href="#"><img alt="Image Processing" src="http://www.pixience.com/WP_11_2016/wp-content/uploads/2017/09/traitement_image_en-300x300.png" width="60" height="70" /></a>
+  &emsp;
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-blue" width="60" height="40" /></a>
+  &emsp;
+  <a href="#"><img alt="Mongodb" src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="60" height="70" /></a>
+  &emsp;
 </p>
 
 ### 🔵 IDEs
@@ -53,6 +63,8 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20notebook-blue" /></a>
+  &emsp;
+    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/-Spyder-red" /></a>
   &emsp;
  </p>
 
