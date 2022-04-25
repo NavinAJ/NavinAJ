@@ -38,11 +38,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="AWS" src="https://banner2.cleanpng.com/20181116/oet/kisspng-amazon-web-services-cloud-computing-amazon-com-ama-5bef6850a68772.0171555915424164646821.jpg" width="60" height="50"></a>
+    <a href="#"><img alt="AWS" src="https://techtalent.ca/wp-content/uploads/2020/12/1_b_al7C5p26tbZG4sy-CWqw.png" width="70" height="60"></a>
   &emsp;
     <a href="#"><img alt="Azure" src="https://swimburger.net/media/ppnn3pcl/azure.png" width="50" height="50"></a>
   &emsp;
-    <a href="#"><img alt="Unity 3D" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo-black-and-white.png" width="50" height="50" /></a>
+    <a href="#"><img alt="Unity 3D" src="https://www.logolynx.com/images/logolynx/90/908c28710b023fe94825ed4c503670d9.jpeg" width="100" height="50" /></a>
   &emsp;
 </p>
 
