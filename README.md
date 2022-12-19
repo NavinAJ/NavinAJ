@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navin Prasad</h1>
 <h3 align="center">Machine Learning Enthusiasts  and Cloud practitioner</h3>
 
-- 🔭 I’m currently working in AspireNXT as a Data Scientist. 
+- 🔭 I’m currently working in KANINI as a Data Scientist. 
 - 🌱 I’m a Data story teller  and Love to apply ML in realworld usecases.
 - 📫 How to reach me **navinprasad.sv@gmail.com**
 - :nerd_face: Happy to learn new things`
